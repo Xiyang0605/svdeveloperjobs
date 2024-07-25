@@ -1,0 +1,13 @@
+{
+    "name": "linkedinjob",
+    "version": "1.0.0",
+    "main": "app.mjs",
+    "type": "module",
+    "scripts": {
+      "start": "node app.mjs"
+    },
+    "dependencies": {
+      "node-fetch": "^3.0.0"
+    }
+  }
+  
